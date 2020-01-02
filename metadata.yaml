@@ -1,6 +1,9 @@
 _repo: Ralph-124C-41-A-Romance-of-the-Year-2660_60944
-_version: 0.1.0
+_version: 0.2.0
 alternative_title: Ralph one hundred twenty-four C forty-one plus
+covers:
+- cover_type: archival
+  image_path: 60944-h/images/cover.jpg
 creator:
   author:
     agent_name: Gernsback, Hugo
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/51201
     wikipedia: https://en.wikipedia.org/wiki/Hugo_Gernsback
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/60944#Ralph-124C-41-A-Romance-of-the-Year-2660
 gutenberg_issued: '2019-12-17'
 gutenberg_type: Text
 identifiers:
